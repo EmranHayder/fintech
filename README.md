@@ -23,15 +23,32 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-Introducing the Fintech Banking web app! It's a one-stop solution for managing finances effortlessly. With easy registration and top-notch security, User can access his accounts hassle-free. Keep tabs on balances, transactions, and beneficiaries all in one place.
+# Fintech Banking Web App
 
-Streamlined Management: Fintech Banking web app simplifies financial tasks.
-Easy Registration: Hassle-free sign-up process ensures quick access to the accounts.
-Top-Notch Security: Data is protected with robust encryption and authentication measures.
-Account Visibility: View balances, transaction history, and other account details in real time.
-Effortless Transactions: Transfer funds and make payments securely, anytime, anywhere.
-Beneficiary Management: Add, edit, or remove beneficiaries with ease for streamlined payments.
-Personalized Experience: Enjoy tailored features and recommendations based on needs
+Welcome to the Fintech Banking web app! This is your one-stop solution for managing finances effortlessly.
+
+## Features
+
+### Streamlined Management
+Fintech Banking web app simplifies financial tasks, making it easier for you to manage your finances effectively.
+
+### Easy Registration
+Our hassle-free sign-up process ensures quick access to your accounts, so you can get started without any delays.
+
+### Top-Notch Security
+Rest assured, your data is protected with robust encryption and authentication measures, ensuring the highest level of security.
+
+### Account Visibility
+Keep track of your finances with real-time updates on balances, transaction history, and other account details.
+
+### Effortless Transactions
+Transfer funds and make payments securely, anytime, anywhere, with just a few clicks.
+
+### Beneficiary Management
+Manage your beneficiaries effortlessly. Add, edit, or remove beneficiaries with ease for streamlined payments.
+
+### Personalized Experience
+Enjoy a tailored experience with features and recommendations based on your specific needs.
 
 ## Installation
 
