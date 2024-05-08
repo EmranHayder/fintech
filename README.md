@@ -23,8 +23,15 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Introducing the Fintech Banking web app! It's a one-stop solution for managing finances effortlessly. With easy registration and top-notch security, User can access his accounts hassle-free. Keep tabs on balances, transactions, and beneficiaries all in one place.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Streamlined Management: Fintech Banking web app simplifies financial tasks.
+Easy Registration: Hassle-free sign-up process ensures quick access to the accounts.
+Top-Notch Security: Data is protected with robust encryption and authentication measures.
+Account Visibility: View balances, transaction history, and other account details in real time.
+Effortless Transactions: Transfer funds and make payments securely, anytime, anywhere.
+Beneficiary Management: Add, edit, or remove beneficiaries with ease for streamlined payments.
+Personalized Experience: Enjoy tailored features and recommendations based on needs
 
 ## Installation
 
